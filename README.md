@@ -1,5 +1,5 @@
 # quant_ml_nifty50
-<strong><h1>Project  - Unsupervised Learning Trading Strategy </h1></strong>
+<strong><h2>Project  - Unsupervised Learning Trading Strategy </h2></strong>
 <h3>
 ﻿1. Download NIFTY 50 stocks prices data.
    
