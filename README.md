@@ -2,6 +2,7 @@
 <strong><h2>Project  - Unsupervised Learning Trading Strategy </h2></strong>
 <h3>
 ﻿1. Download NIFTY 50 stocks prices data.
+ <p></p>
    
 2.Calculate different technical indicators and features for each stock.
 
