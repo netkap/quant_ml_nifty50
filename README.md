@@ -1,8 +1,7 @@
 # quant_ml_nifty50
 **Project  - Unsupervised Learning Trading Strategy **
 
-﻿
-1. Download NIFTY 50 stocks prices data.
+﻿1. Download NIFTY 50 stocks prices data.
    
 2.Calculate different technical indicators and features for each stock.
 
