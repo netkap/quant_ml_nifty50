@@ -5,7 +5,7 @@
    
 2.Calculate different technical indicators and features for each stock.
 
-3.Aggregate on monthly level and filter for each month only top 10 most liquid stocks. Calculate monthly returns for different time-horizons to add to features.
+3.Aggregate on monthly level and filter for each month only top 12 most liquid stocks. Calculate monthly returns for different time-horizons to add to features.
 
 4.Download Fama-French Factors and calculate rolling factor betas for each stock.
 
